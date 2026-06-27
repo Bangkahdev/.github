@@ -2,55 +2,38 @@
 
 Thank you for your interest in contributing to Bangkah.
 
-We welcome contributions of all kinds, including:
+## Before you start
 
-- Bug fixes
-- Documentation improvements
-- Feature requests
-- Performance improvements
-- Security enhancements
-- Code refactoring
+- Search existing Issues.
+- Discuss large changes first.
+- Keep Pull Requests focused.
 
-## Development Workflow
+## Development
 
 1. Fork the repository.
 2. Create a feature branch.
 
-```bash
-git checkout -b feature/my-feature
-```
+git checkout -b feature/amazing-feature
 
 3. Commit your changes.
 
-```bash
-git commit -m "Add awesome feature"
-```
-
-4. Push your branch.
-
-```bash
-git push origin feature/my-feature
-```
+4. Push to your fork.
 
 5. Open a Pull Request.
 
-## Coding Standards
+## Coding Guidelines
 
-- Write clean and readable code.
-- Keep commits focused.
-- Document public APIs.
-- Follow each repository's style guide.
-- Add tests whenever possible.
+- Write readable code.
+- Follow the project style.
+- Add documentation.
+- Test before submitting.
 
 ## Reporting Bugs
 
-Please include:
+Use the Bug Report template.
 
-- Operating System
-- Version
-- Steps to reproduce
-- Expected behavior
-- Actual behavior
-- Logs or screenshots if available
+## Feature Requests
+
+Open a Feature Request issue first.
 
 Thank you for helping improve Bangkah.

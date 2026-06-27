@@ -1,93 +1,72 @@
 # Bangkah
 
-> Building open-source Linux utilities, DevOps tooling, backend frameworks, cloud-native software, and developer productivity tools.
+<div align="center">
 
-Bangkah is an independent open-source engineering studio dedicated to building reliable software for developers, system administrators, and open-source communities.
+Building software that developers actually enjoy using.
 
-Our focus is on creating practical tools that are simple, transparent, secure, and designed for real-world use.
+Open-source engineering studio focused on Linux, Backend Engineering, DevOps, Security, and Cloud Native.
 
----
-
-## Focus Areas
-
-### Linux
-
-Utilities, CLI applications, package management, automation, and system administration.
-
-### DevOps & Cloud Native
-
-Infrastructure automation, containers, deployment workflows, Kubernetes, and CI/CD.
-
-### Backend Engineering
-
-Laravel, REST APIs, authentication systems, backend frameworks, and scalable services.
-
-### Security
-
-Security research, monitoring, networking tools, and defensive software for Linux environments.
+</div>
 
 ---
 
-# Flagship Projects
+## Engineering Areas
+
+Linux
+
+Modern CLI utilities, automation tools, package management, system administration.
+
+Backend
+
+Laravel, REST APIs, authentication systems, scalable services.
+
+DevOps
+
+Containers, Docker, Kubernetes, CI/CD, Infrastructure.
+
+Security
+
+Cybersecurity research, monitoring, Linux security tools.
+
+---
+
+## Flagship Projects
 
 | Project | Description |
 |---------|-------------|
-| **ATHA** | Workflow wrapper for `pacman` focused on safety, transparency, and auditability. |
-| **Bangkah Launcher** | Laravel starter kit generator with Docker, Nginx, authentication, and deployment support. |
-| **NetInfo** | Modern Linux CLI for network diagnostics and system information. |
-| **Sentinel AI** | Open-source cybersecurity CLI for Linux systems. |
+| ATHA | Safe workflow wrapper for pacman |
+| Bangkah Launcher | Laravel project scaffolding |
+| NetInfo | Linux network diagnostics |
+| Sentinel AI | Security CLI for Linux |
 
 ---
 
-# Technology Stack
+## Principles
 
-<p>
+✔ Open Source First
 
-<img src="https://skillicons.dev/icons?i=linux,docker,php,laravel,python,bash,git,github,mysql,nginx,kubernetes"/>
+✔ Security by Design
 
-</p>
+✔ Documentation Before Complexity
 
----
+✔ Developer Experience Matters
 
-# Engineering Principles
-
-- Open Source First
-- Security by Design
-- Documentation Before Complexity
-- Developer Experience Matters
-- Simple > Clever
-- Learn in Public
+✔ Learn in Public
 
 ---
 
-# Contributing
+## Community
 
-We welcome contributions from developers around the world.
+Contributions are welcome.
 
-Whether you are:
-
-- fixing bugs
-- improving documentation
-- proposing new ideas
-- developing new features
-
-your contribution helps make Bangkah better.
-
-Please check each repository's `CONTRIBUTING.md` before opening a Pull Request.
+Report bugs, request features, or submit pull requests.
 
 ---
 
-# Connect
+## Connect
 
-Website  
-https://mdhiyaulatha.me
+Website
 
-GitHub  
-https://github.com/Bangkahdev
+GitHub
 
-LinkedIn  
-https://linkedin.com/in/muhammad-dhyaul-atha
-
----
-
-> Building software that developers actually enjoy using.
+LinkedIn

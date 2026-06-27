@@ -2,11 +2,18 @@
 
 Need help?
 
-You can:
+## Documentation
 
-- Open a GitHub Discussion
-- Create an Issue
-- Read the project documentation
-- Visit the official website
+Please read the project documentation first.
 
-Please avoid using Issues for general questions.
+## Questions
+
+Use GitHub Discussions.
+
+## Bugs
+
+Open a Bug Report.
+
+## Feature Requests
+
+Open a Feature Request issue.

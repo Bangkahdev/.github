@@ -1,20 +1,18 @@
 # Security Policy
 
-## Reporting a Vulnerability
-
-If you discover a security issue, please do not create a public issue.
-
-Instead, contact:
-
-Email:
-mdhyaulatha@gmail.com
-
-or
-
-Open a private security advisory if supported.
-
-We will review all reports responsibly.
-
 ## Supported Versions
 
-Unless otherwise specified, only the latest stable release is actively maintained.
+| Version | Supported |
+|----------|-----------|
+| Latest | ✅ |
+| Older releases | ❌ |
+
+## Reporting a Vulnerability
+
+Please do not report security vulnerabilities through public Issues.
+
+Instead, contact the maintainers privately.
+
+We will investigate the issue and respond as quickly as possible.
+
+Thank you for helping keep Bangkah secure.

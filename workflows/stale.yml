@@ -1,0 +1,27 @@
+name: Close Stale Issues
+
+on:
+  schedule:
+    - cron: "30 1 * * *"
+
+jobs:
+  stale:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/stale@v9
+        with:
+          stale-issue-message: >
+            This issue has been automatically marked as stale due to inactivity.
+
+          close-issue-message: >
+            Closing this issue because there has been no recent activity.
+
+          stale-pr-message: >
+            This pull request has been marked as stale.
+
+          close-pr-message: >
+            Closing this pull request due to inactivity.
+
+          days-before-stale: 45
+          days-before-close: 14
