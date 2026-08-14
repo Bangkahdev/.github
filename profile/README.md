@@ -63,10 +63,3 @@ Report bugs, request features, or submit pull requests.
 
 ---
 
-## Connect
-
-Website
-
-GitHub
-
-LinkedIn
